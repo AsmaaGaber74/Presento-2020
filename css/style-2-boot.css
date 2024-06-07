@@ -796,7 +796,7 @@ button:focus
 #pricing.pricing  .btn-buy:hover {
   border-color: #fff;
 }
-//
+
 
 
 .faq .faq-list {
@@ -1083,7 +1083,7 @@ button:focus
     padding: 10px;
     text-align:center;
     border-radius: 5px;
- 
+  margin-top: 10px;
 }
 .footer .last
 {
